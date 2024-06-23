@@ -1,0 +1,53 @@
+[
+    {
+      "type": "body",
+      "description": "Realize 20 flexões de braço",
+      "amount": 20
+    },
+    {
+      "type": "body",
+      "description": "Faça 30 segundos de prancha",
+      "amount": 30
+    },
+    {
+      "type": "body",
+      "description": "Dê 30 pulos com corda",
+      "amount": 30
+    },
+    {
+      "type": "body",
+      "description": "Realize 15 abdominais",
+      "amount": 15
+    },
+    {
+      "type": "body",
+      "description": "Dê 20 saltos",
+      "amount": 20
+    },
+    {
+      "type": "body",
+      "description": "Faça 10 flexões de perna (cada perna)",
+      "amount": 10
+    },
+    {
+      "type": "body",
+      "description": "Realize 1 minuto de prancha lateral (30 segundos para cada lado)",
+      "amount": 60
+    },
+    {
+      "type": "body",
+      "description": "Faça 10 burpees",
+      "amount": 100
+    },
+    {
+      "type": "eye",
+      "description": "Pisque 20 vezes rapidamente",
+      "amount": 20
+    },
+    {
+      "type": "eye",
+      "description": "Olhe para um ponto fixo distante por 30 segundos",
+      "amount": 30
+    }
+]
+  
